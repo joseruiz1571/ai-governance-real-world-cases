@@ -11,7 +11,7 @@ real people today.
 
 | # | System | Organization | Primary Issue | Jurisdiction |
 |---|--------|-------------|---------------|-------------|
-| 001 | [BK Assistant (Patty)](./001-bk-assistant/) | Burger King | BIPA voiceprint exposure + minor employee governance gap | Illinois, USA |
+| 001 | [BK Assistant (Patty)](./001-bk-assistant.md/) | Burger King | BIPA voiceprint exposure + minor employee governance gap | Illinois, USA |
 
 ## Approach
 
