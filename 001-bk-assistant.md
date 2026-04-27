@@ -1,5 +1,5 @@
 **Jose Ruiz-Vazquez**  
-*AI Governance & Risk*
+*AI Risk & Compliance*
 
 **Summary of Compliance Risk for the BK Assistant Algorithm**
 
@@ -48,3 +48,11 @@ BK Assistant is not a hypothetical future risk, it is a live system operating to
 ⁶ Drobac, J.A., “Developing Capacity: Adolescent Consent at Work, at Law, and in the Sciences of the Mind,” Journal of Juvenile Law & Policy, Vol. 10, No. 1 (2006).
 
 ⁷ EU Artificial Intelligence Act, Article 5(1)(f), Regulation (EU) 2024/1689, effective February 2, 2025\.
+
+---
+
+**About the Author**
+
+Jose Ruiz-Vazquez is an information governance and AI risk practitioner with a background in library and information science and two years of cybersecurity study. His work focuses on the compliance and governance challenges that emerge when AI systems meet regulated environments — particularly healthcare, financial services, and public institutions. He writes at *Controlled Vocabulary*, a publication covering AI governance and safety through a library science lens.
+
+[LinkedIn](https://www.linkedin.com/in/joseruiz1571)

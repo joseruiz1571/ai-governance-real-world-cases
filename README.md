@@ -1,6 +1,6 @@
-# AI Governance — Real World Cases
+# Live Systems
 
-Analysis of AI systems currently deployed in the real world,
+Original analysis of AI tools and automated systems in active deployment,
 examined for compliance exposure, governance gaps, and what
 mitigation should look like.
 
